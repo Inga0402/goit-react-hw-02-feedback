@@ -1,9 +1,9 @@
 .list {
-  width: 200px;
+  width: 300px;
   padding: 10px;
-  border: 1px solid rgb(126, 245, 176);
+  border: 1px solid rgb(212, 55, 212);
   border-radius: 15px;
-  box-shadow: 0 0 20px rgba(55%, 55%, 55%, 0.5);
+  box-shadow: 0 0 20px rgba(235, 218, 218, 0.5);
 }
 .listItem {
   display: flex;
@@ -11,11 +11,10 @@
   margin-bottom: 15px;
 }
 .itemText {
-  font-weight: 600;
-  color: rgb(7, 58, 28);
+  font-weight: 500;
+  color: rgb(77, 20, 182);
 }
 .text {
   margin-left: 8px;
   font-weight: 400;
-  font-style: italic;
 }
